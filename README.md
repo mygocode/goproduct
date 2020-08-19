@@ -1,5 +1,5 @@
 # Test Driven Development with GO
-The purpose of this appication is to implement Test Driven Development with Golang. 
+The purpose of this appication is to learn and implement Test Driven Development with Golang. 
 We have 4 files
 - main.go
 - app.go
@@ -46,7 +46,7 @@ $ sudo docker ps
 ```
 
 # How to run the application
-There is nographical interface of this application.
+There is no graphical interface of this application. To run the application you will have to run the test file.
 Run the test file and get the understang of the code flow. 
 To run, type the following command
 ```shell 
@@ -54,5 +54,8 @@ $ go test -v
 ```
 
 ![Test Result](https://i.ibb.co/jD2LxCG/Go-Test-Result.png)
+
+For detailed understanding please refer to the this link
+https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
 
 Happy coding with GO! :herb:
