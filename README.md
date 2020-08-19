@@ -56,7 +56,6 @@ $ go test -v
 ![Test Result](https://i.ibb.co/jD2LxCG/Go-Test-Result.png)
 
 For detailed understanding please refer to this link 
-
-https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
+- https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql 
 
 Happy coding with GO! :herb:
