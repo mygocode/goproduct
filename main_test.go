@@ -21,9 +21,9 @@ func TestMain(m *testing.M) {
 		os.Getenv("APP_DB_NAME"))
 
 	ensureTableExists()
-	code := m.Run()
+	exitCode := m.Run()
 	clearTable()
-	os.Exit(code)
+	os.Exit(exitCode)
 }
 
 func TestEmptyTable(test *testing.T) {
